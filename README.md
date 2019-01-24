@@ -1,2 +1,2 @@
 # design
-Design material and experimenation
+Design material and experimentation
