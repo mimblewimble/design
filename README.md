@@ -5,7 +5,7 @@ Repository for Grin's design related issues. Brand, visual identity, public rela
 ### 2019
 Date | Topic | Notes
 |:---|:---|:---:|
-Feb 14 | Design | [Notes](https://github.com/mimblewimble/design/blob/beta/notes/20190214-meeting-design.md)
+Feb 14 | Design | [Notes](https://github.com/mimblewimble/design/blob/master/notes/20190214-meeting-design.md)
 Jan 31 | Design | [Notes](https://docs.google.com/document/d/19YcDA5YtFNQKJOnrqWIsArdNK14wdbLlFcpT7e6A8RI/edit#)
 Jan 24 | Design | -
 
