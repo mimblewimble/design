@@ -1,7 +1,7 @@
 # Meeting Notes: Design, Feb 27 2019
 Design meeting held Feb 27 2019 @ 8 AM PST in [grin/design](https://gitter.im/grin_community/design) and Google Hangouts (link in chat).
 
-**Notetaker:** numecca (@numecca)
+**Notetaker:** numecca (@numecca), edited by nijynot (@nijynot)
 
 **Community attendance**:
 
