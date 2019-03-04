@@ -12,7 +12,7 @@ Design meeting held Feb 27 2019 @ 8 AM PST in [grin/design](https://gitter.im/gr
 
 ## Discussion
 
-1. Ecosystem presentation March 12 — right after Grin’s governance meeting. We’ll usher who we can into Grin/ecosystem for the presentations. Ironbelly, Nijynot, Cycle42, SuperGrin, and possibly Superlinear Wallet and 713.
+1. Ecosystem presentation March 12 — right after Grin’s governance meeting. We’ll usher who we can into Grin/ecosystem for the presentations. Ironbelly, Nijynot, Cypherpunk 42, SuperGrin, and possibly Superlinear Wallet and 713.
 2. Noah Yeh has been busy organizing the ecosystem project showcase on March 12. The Chinese site for information about Grin is up!
 3. Nijynot is working on the leaderboard/Hall of Fame for the Friends of Grin page.
 4. Rosa is switching from Smirk to 713?
