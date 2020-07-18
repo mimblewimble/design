@@ -23,7 +23,7 @@ Get started with any task, and join us at the Grin [design channel](https://gitt
 
 ## Related
 [mimblewimble/grin-pm](https://github.com/mimblewimble/grin-pm) - Project management  
-[mimblewimble/site](https://github.com/mimblewimble/site) - Repository for [grin-tech.org](http://grin-tech.org)  
+[mimblewimble/site](https://github.com/mimblewimble/site) - Repository for [grin.mw](https://grin.mw)  
 [mimblewimble/docs](https://github.com/mimblewimble/docs) - Documentation  
 
 ## License
